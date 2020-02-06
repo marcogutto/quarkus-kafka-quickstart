@@ -1,4 +1,4 @@
-package org.acme.quarkus.sample;
+package org.acme.kafka;
 
 import java.util.Random;
 import java.util.concurrent.TimeUnit;

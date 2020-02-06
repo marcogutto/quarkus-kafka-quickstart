@@ -1,4 +1,4 @@
-package org.acme.quarkus.sample;
+package org.acme.kafka;
 
 import static java.util.concurrent.TimeUnit.MILLISECONDS;
 import static org.awaitility.Awaitility.await;

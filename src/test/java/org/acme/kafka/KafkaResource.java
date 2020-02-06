@@ -1,4 +1,4 @@
-package org.acme.quarkus.sample;
+package org.acme.kafka;
 
 import java.util.Collections;
 import java.util.Map;

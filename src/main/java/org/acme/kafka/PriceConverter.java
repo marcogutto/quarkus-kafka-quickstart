@@ -1,4 +1,4 @@
-package org.acme.quarkus.sample;
+package org.acme.kafka;
 
 import javax.enterprise.context.ApplicationScoped;
 

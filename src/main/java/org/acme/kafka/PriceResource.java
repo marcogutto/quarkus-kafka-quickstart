@@ -1,4 +1,4 @@
-package org.acme.quarkus.sample;
+package org.acme.kafka;
 
 import javax.inject.Inject;
 import javax.ws.rs.GET;
